@@ -1,0 +1,2 @@
+# samplepush
+ignore this repo
